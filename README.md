@@ -1,2 +1,2 @@
 # Checklist
-Hi. You can find some checklists in this repo.
+Для просмотра чек-листов скачайте файл Checklist.ods
